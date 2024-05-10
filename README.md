@@ -55,3 +55,14 @@
 + 000000
 + FFB400
 + 6F6B61
+
+### 3 - wireframe 
+
++ home:
+  
+  ![](https://github.com/SofiaNocetti/web-integrador/blob/main/wireframe%20integrador-HOME.drawio.png)
+
++ the band:
+  
+  ![](https://github.com/SofiaNocetti/web-integrador/blob/main/wireframe%20integrador-the%20band.drawio.png)
+
