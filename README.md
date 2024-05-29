@@ -60,9 +60,9 @@
 
 + home:
   
-  ![wireframe home](https://github.com/SofiaNocetti/web-integrador/blob/main/wireframe%20integrador-HOME.drawio.png)
+  ![wireframe home](/wireframe/wireframe%20integrador-home.png)
 
 + the band:
   
-  ![wireframe banda](https://github.com/SofiaNocetti/web-integrador/blob/main/wireframe%20integrador-the%20band.drawio.png)
+  ![wireframe banda](/wireframe/wireframe%20integrador-the%20band.drawio.png)
 
