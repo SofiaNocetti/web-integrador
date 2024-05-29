@@ -18,7 +18,7 @@
 
   ### 3 - presentacion de las ideas 
 
-  1. presentacion:
+  1. pagina de inicio:
    + imagen principal del artista - centrado 
    + shop - basado en tarjetas 
    + ultimo video de la banda - centrado
@@ -60,9 +60,9 @@
 
 + home:
   
-  ![](https://github.com/SofiaNocetti/web-integrador/blob/main/wireframe%20integrador-HOME.drawio.png)
+  ![wireframe home](https://github.com/SofiaNocetti/web-integrador/blob/main/wireframe%20integrador-HOME.drawio.png)
 
 + the band:
   
-  ![](https://github.com/SofiaNocetti/web-integrador/blob/main/wireframe%20integrador-the%20band.drawio.png)
+  ![wireframe banda](https://github.com/SofiaNocetti/web-integrador/blob/main/wireframe%20integrador-the%20band.drawio.png)
 
