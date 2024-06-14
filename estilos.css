@@ -1,0 +1,188 @@
+body {
+    background-color: #000000;
+    color: white;
+    margin: 0;
+    font-family: sans-serif;
+}
+
+header {
+    display: flex;
+    position: sticky;
+    top: 0px;
+    left: 0px;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #f8f7f5;
+    padding: 10px;
+
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+
+}
+
+.logo img {
+    height: 50px;
+    margin-right: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: #FF0000;
+    margin: 5px;
+}
+
+nav a {
+    font-weight: 600;
+    padding-right: 10px;
+}
+
+
+.conteiner-items {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+    margin: 10px;
+
+}
+
+.item {
+    border-radius: 10px;
+
+}
+
+.item:hover {
+    box-shadow: 0 10px 20px 0px rgb(248, 8, 8);
+}
+
+.item img {
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+    border-radius: 10px 10px 0 0;
+}
+
+.item figure {
+    overflow: hidden;
+}
+
+.info-producto {
+    padding: 15px 30px;
+    line-height: 2;
+    display: flex;
+    flex-direction: column;
+}
+
+.precio {
+    font-size: 18px;
+    font-weight: 900;
+}
+
+.info-producto button {
+    border: none;
+    background-color: rgb(129, 127, 127);
+    color: #fff;
+    padding: 15px 10px;
+    cursor: pointer;
+}
+
+.video {
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+    padding: 20px;
+}
+
+.musica {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px;
+    margin: 10px;
+
+}
+
+.redes {
+    display: flex;
+    justify-content: center;
+}
+
+h1,
+h2 {
+
+    font-family: serif;
+    color: #FFB400;
+}
+
+.imagen-principal2 {
+    background-image: url(/imagenes_ozzy/ozzy-banda.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 80vh;
+    background-attachment: fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+}
+
+p {
+    font-family: sans-serif;
+}
+
+.imagen1 {
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+}
+
+.tour {
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
+
+li {
+    list-style: none;
+    padding: 5px;
+}
+
+.imagentour {
+
+    display: flex;
+    justify-content: center;
+    height: 300px;
+}
+
+.imagen-principal {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 25px;
+}
+
+.texto {
+    height: 400px;
+    width: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 5px auto;
+    padding: 5px;
+    text-align: center;
+    border-bottom: 5px solid white;
+    border-top: 5px solid white;
+
+}
+
+p {
+    padding: 5px;
+    font-size: 20px;
+    margin: 10pxs;
+}
+
+.texto2 {
+
+    font-size: 30px;
+    
+}
