@@ -13,7 +13,7 @@
   2. historia de la banda: imagenes / trayectoria / cronologia 
   3. tour y eventos: tipos de show y eventos que hacen y proximos a hacerse 
   4. shop y merch: fotos de los productos / texto 
-  5. musica: ultimos videos musicales / albunes de la banda
+  5. musica: ultimos videos musicales / albumes de la banda
 
 
   ### 3 - presentacion de las ideas 
